@@ -1,0 +1,5 @@
+train: /home/kmarijan/YoloV5-Flexible-and-Inference/datasets/masks/train/images
+val: /home/kmarijan/YoloV5-Flexible-and-Inference/datasets/masks/valid/images
+
+nc: 2
+names: ['mask', 'no-mask']
